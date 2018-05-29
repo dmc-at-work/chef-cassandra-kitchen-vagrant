@@ -1,2 +1,3 @@
-# chef-cassandra-kitchen-vagrant
-Chef Cassandra Kitchen Vagrant
+# Chef Cassandra Kitchen Vagrant
+
+## Chef Cassandra Kitchen Vagrant
